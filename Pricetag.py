@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 price = 1000
 
 try:
