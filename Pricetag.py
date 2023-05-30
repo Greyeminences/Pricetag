@@ -2,7 +2,7 @@
 price = 1000
 
 try:
-    price = int(input("How much you love me in range 0 - 100: "))
+    price = int(input("How much do you love me in range 0 - 100: "))
 except ValueError:
     print("Robert, you're dumb!")
 
